@@ -1,6 +1,6 @@
 import moment from "moment/moment";
 import Wrapper from "../Wrapper/Wrapper";
-import { BsFacebook } from 'react-icons/bs';
+import { BsFacebook, BsLinkedin } from 'react-icons/bs';
 import { AiFillGithub } from 'react-icons/ai';
 import { Link } from "react-router-dom";
 
@@ -10,9 +10,12 @@ const Footer = () => {
          <Wrapper>
             <div className="text-center">
                <p className="text-white">Md. Abul Asad Zihad | All Rights reserverd {moment().format("YYYY")}</p>
-               <div className="text-white text-center flex items-center justify-center gap-3 my-3">
+               <div className="text-white text-center flex items-center justify-center gap-5 my-3">
                   <Link to="https://www.facebook.com/maazihadin" target="_blank">
                      <BsFacebook size={24} />
+                  </Link>
+                  <Link to="https://www.linkedin.com/in/maazihad" target="_blank">
+                     <BsLinkedin size={24} />
                   </Link>
                   <Link to="https://github.com/maazihad" target="_blank">
                      <AiFillGithub size={24} />
