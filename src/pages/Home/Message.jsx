@@ -16,7 +16,7 @@ const Message = () => {
             <div className=" ">
                <div className="text-center mt-28">
                   <h2 className="lg:text-6xl md:text-5xl text-4xl text-purple-700 font-bold">Send me a message</h2>
-                  <p className="text-md w-3/6 mx-auto mt-5 text-purple-800 mb-10">If you have any inquiries, proposals, or simply want to drop a friendly greeting, go ahead and share your thoughts! I'm here and eager to hear from you.</p>
+                  <p className="text-md lg:w-3/6 w-full px-5 md:px-0 mx-auto mt-5 text-purple-800 mb-10">If you have any inquiries, proposals, or simply want to drop a friendly greeting, go ahead and share your thoughts! I'm here and eager to hear from you.</p>
                </div>
                <form className="p-4 max-w-4xl mx-auto" onSubmit={handleSubmit(onSubmit)}>
                   <div className="grid gap-10 lg:grid-cols-2">

@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import Card from "./Card";
 import { Helmet } from "react-helmet-async";
+import Wrapper from "../../components/Shared/Wrapper/Wrapper";
 
 const Projects = () => {
 
@@ -17,15 +18,17 @@ const Projects = () => {
          <Helmet>
             <title>Md. Abul Asad Zihad | Projects</title>
          </Helmet>
-         <div className="p-24 min-h-screen w-full bg-bg-project bg-opacity-50 bg-cover bg-center bg-no-repeat">
-            <div className="grid lg:grid-cols-3 md:grid-cols-2 gap-10">
-               {
-                  projects.map(project => <Card
-                     key={project.id}
-                     project={project}
-                  ></Card>)
-               }
-            </div>
+         <div className="pt-28 min-h-screen w-full bg-bg-project bg-opacity-50 bg-cover bg-center bg-no-repeat">
+            <Wrapper>
+               <div className="grid lg:grid-cols-3 sm:grid-cols-2 grid-cols-1 gap-10">
+                  {
+                     projects.map(project => <Card
+                        key={project.id}
+                        project={project}
+                     ></Card>)
+                  }
+               </div>
+            </Wrapper>
          </div>
       </>
    );
