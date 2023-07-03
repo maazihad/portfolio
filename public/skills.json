@@ -5,11 +5,6 @@
       "img": "https://cloud.z.com/vn/wp-content/uploads/2023/05/ReactJS-online-training-nareshit.jpg"
    },
    {
-      "id": "1012",
-      "skillName": "React JS",
-      "img": "https://cloud.z.com/vn/wp-content/uploads/2023/05/ReactJS-online-training-nareshit.jpg"
-   },
-   {
       "id": "1013",
       "skillName": "Express JS",
       "img": "https://miro.medium.com/v2/resize:fit:1400/1*XP-mZOrIqX7OsFInN2ngRQ.png"
@@ -67,6 +62,6 @@
    {
       "id": "1024",
       "skillName": "Firebase",
-      "img": "http://ivanruns.tech/wp-content/uploads/2020/01/Firebase_Logo.png"
+      "img": "https://cdn-media-1.freecodecamp.org/images/0*CPTNvq87xG-sUGdx.png"
    }
 ]
