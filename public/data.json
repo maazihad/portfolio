@@ -2,19 +2,89 @@
    {
       "id": "101",
       "projectName": "Summer Camp School",
+      "projectType": "Skill based short duration program school website, built on React.js.",
       "projectImg": "https://i.ibb.co/CKX1PXW/summer-camp-school.png",
-      "projectDetails": "details comming"
+      "liveLink": "https://photography-summer-school-camp.web.app",
+      "githubRepository": {
+         "client": "https://github.com/maazihad/summer-camp-client",
+         "server": "https://github.com/maazihad/summer-camp-server"
+      },
+      "technologiesUsed": {
+         "reactJs": "https://www.datocms-assets.com/45470/1631110818-logo-react-js.png",
+         "tailwindCSS": "https://www.devonblog.com/wp-content/uploads/2022/06/tailwind-thumb.jpg",
+         "expressJs": "https://initialcommit.com/img/initialcommit/beginners-guide-to-using-express-js-and-node-js-framework.png",
+         "mongoDb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png",
+         "nodeJs": "https://litslink.com/wp-content/uploads/2020/12/node.js-logo-image.png",
+         "npmPackages": "https://heropy.blog/css/images/vendor_icons/npm.png"
+      },
+      "description": "Photography Camp School is a skill-based short-duration program designed for photography enthusiasts of all levels. This website showcases the school's offerings and provides a seamless user experience through its modern and responsive design. Built using React.js and Tailwind CSS, the website offers a visually appealing interface that adapts seamlessly to different devices and screen sizes. The frontend of the website was developed using React.js, a popular JavaScript library known for its component-based architecture and efficient rendering. The use of React.js allows for smooth navigation between pages and enables the website to dynamically update content without requiring a full page reload. Additionally, Tailwind CSS, a utility-first CSS framework, was utilized to style and design the components, ensuring a consistent and visually pleasing user interface. The website features a comprehensive backend built on Express.js and MongoDB. Express.js, a fast and minimalist web application framework for Node.js, provides a robust foundation for handling server-side operations. MongoDB, a NoSQL database, is used to store and manage data related to user authentication, camp schedules, and more. One of the key highlights of the website is its user authentication and authorization system. Implemented using JSON Web Tokens (JWT), this feature ensures secure access to various parts of the website. Users can register and log in to their accounts, access personalized dashboards, and interact with the photography camp community. The website includes three main dashboards: the admin dashboard, the instructor dashboard, and the user dashboard. The admin dashboard grants administrators full control over the camp school's operations, allowing them to manage user accounts, update schedules, and monitor payments. The instructor dashboard provides a dedicated space for photography instructors to manage their courses, upload learning materials, and communicate with students. Lastly, the user dashboard offers camp participants a centralized hub to access course materials, track their progress, and engage with other participants. Another significant feature of the website is the seamless integration of a payment method. Users can conveniently make payments for photography camp registrations through a secure and user-friendly payment gateway, enhancing the overall user experience and streamlining the enrollment process. In conclusion, the Photography Camp School website is a testament to the power of React.js, Tailwind CSS, Express.js, and MongoDB in creating a responsive, visually appealing, and feature-rich web application. With its user-friendly interface, secure authentication system, and comprehensive dashboards, the website provides a seamless and engaging experience for both administrators, instructors, and photography camp participants.",
+      "features": [
+         "Responsive design",
+         "User authentication and authorization using JSON Web Tokens (JWT)",
+         "Admin dashboard",
+         "Instructor dashboard",
+         "User dashboard",
+         "Payment method integration"
+      ]
    },
    {
       "id": "102",
       "projectName": "toy marketplace",
+      "projectType": "A website for a child sports toy marketplace",
       "projectImg": "https://i.ibb.co/HXdq2BH/toy-racer.png",
-      "projectDetails": "details comming"
+      "liveLink": "https://toy-racer-bd.web.app",
+      "githubRepository": {
+         "client": "https://github.com/maazihad/toy-racer-bd-client",
+         "server": "https://github.com/maazihad/toy-racer-bd-server"
+      },
+      "technologiesUsed": {
+         "reactJs": "https://www.datocms-assets.com/45470/1631110818-logo-react-js.png",
+         "tailwindCSS": "https://www.devonblog.com/wp-content/uploads/2022/06/tailwind-thumb.jpg",
+         "expressJs": "https://initialcommit.com/img/initialcommit/beginners-guide-to-using-express-js-and-node-js-framework.png",
+         "mongoDb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png",
+         "nodeJs": "https://litslink.com/wp-content/uploads/2020/12/node.js-logo-image.png",
+         "npmPackages": "https://heropy.blog/css/images/vendor_icons/npm.png"
+      },
+      "description": "Toy-Racer BD is an exciting web application designed to create a delightful experience for children and toy enthusiasts. This website serves as a marketplace specifically for child sports toys, offering a wide range of options for young racing enthusiasts. Built using React.js and styled with Tailwind CSS, Toy-Racer BD provides a visually appealing and user-friendly interface.  The frontend of the application was developed using React.js, a popular JavaScript library known for its component-based architecture and efficient rendering. React.js enables dynamic updates to the application's content without requiring a full page reload, resulting in a seamless user experience. Additionally, Tailwind CSS was utilized for styling and designing the components, ensuring a consistent and visually pleasing interface. The application features an interactive and intuitive user interface that allows users to browse through various sports toys and add them to their collection. Users can explore a wide range of toy options, including toy race cars, bikes, and other sports-related toys, providing an engaging experience for young racing enthusiasts. The backend of the application is built using Express.js, a fast and minimalist web application framework for Node.js, which provides a robust foundation for handling server-side operations. Data related to toy listings, user profiles, and transactions is stored and managed in a MongoDB database. This combination of Express.js and MongoDB ensures efficient data management and retrieval, enabling a seamless user experience. One of the key features of Toy-Racer BD is its user-friendly interface, which allows users to easily add toys to the marketplace. Users can create profiles, list their toys for sale, and engage with potential buyers in a secure and interactive environment. The application leverages various React.js npm packages to enhance functionality and provide features like real-time updates, image uploading, and user authentication. In conclusion, Toy-Racer BD is a web application that caters specifically to child sports toy enthusiasts. With its visually appealing design, intuitive user interface, and seamless integration of React.js, Tailwind CSS, Express.js, and MongoDB, the website provides a platform for young racing enthusiasts to explore, buy, and sell their favorite sports toys in a fun and engaging manner.",
+      "features": [
+         "Exciting web application for toy racing",
+         "User-friendly interface",
+         "React npm packages for enhanced functionality",
+         "Express.js server for backend operations",
+         "MongoDB database for data storage",
+         "User can add toys to the marketplace"
+      ]
    },
    {
       "id": "103",
       "projectName": "Bangladeshi Famous Chefs Recipe",
+      "projectType": "Famous chefs and their prepared dishes",
       "projectImg": "https://i.ibb.co/1mYSQT5/bd-chefs.png",
-      "projectDetails": "details comming"
+      "liveLink": "https://chef-nahid-osman-bd-client.web.app/",
+      "githubRepository": {
+         "client": "https://github.com/maazihad/khadok-chottola-client",
+         "server": "https://github.com/maazihad/khadok-chottola-server"
+      },
+      "technologiesUsed": {
+         "reactJs": "https://www.datocms-assets.com/45470/1631110818-logo-react-js.png",
+         "tailwindCSS": "https://www.devonblog.com/wp-content/uploads/2022/06/tailwind-thumb.jpg",
+         "expressJs": "https://initialcommit.com/img/initialcommit/beginners-guide-to-using-express-js-and-node-js-framework.png",
+         "mongoDb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png",
+         "nodeJs": "https://litslink.com/wp-content/uploads/2020/12/node.js-logo-image.png",
+         "npmPackages": "https://heropy.blog/css/images/vendor_icons/npm.png"
+      },
+      "description": "Khadok Chottola is a responsive website that showcases the culinary expertise of Bangladesh's famous chefs and their signature dishes. Built using React.js and styled with Tailwind CSS, the website provides a visually appealing and user-friendly interface for users to explore the world of delectable cuisine. The frontend of the website was developed using React.js, a popular JavaScript library known for its component-based architecture and efficient rendering. React.js allows for seamless navigation and dynamic content updates, resulting in a smooth and interactive user experience. Tailwind CSS was utilized to style and design the components, ensuring a visually consistent and modern interface. The website features an extensive collection of dishes prepared by renowned chefs from Bangladesh. Users can browse through the showcased dishes, learn about their ingredients, cooking techniques, and the stories behind them. Each dish is accompanied by captivating images and descriptions, enticing users to explore the rich culinary heritage of the country. To develop a robust backend, Express.js, a fast and minimalist web application framework for Node.js, was used. Express.js provides a solid foundation for implementing RESTful APIs to handle data retrieval and manipulation. MongoDB, a NoSQL database, was chosen to store and manage the culinary data, ensuring efficient data storage and retrieval. The website focuses on data security, ensuring that user information and dish details are protected. User authentication and authorization mechanisms can be implemented using JSON Web Tokens (JWT) or other secure authentication methods, providing a safe and personalized experience for users. The use of NPM packages further enhances the functionality of the website, allowing for features such as search and filtering options, user ratings and reviews, and social media sharing capabilities. These packages enable a more engaging and interactive experience for users, encouraging them to explore and interact with the showcased dishes and chefs. In conclusion, Khadok Chottola is a platform that celebrates the artistry of Bangladesh's famous chefs and their culinary creations. With its responsive design, seamless integration of React.js, Tailwind CSS, Express.js, and MongoDB, the website provides a visually captivating and informative experience for food enthusiasts. By highlighting the achievements and dishes of renowned chefs, Khadok Chottola brings the richness of Bangladesh's culinary heritage to a broader audience.",
+      "features": [
+         "Showcasing famous chefs and their dishes",
+         "Responsive web design for optimal viewing across devices",
+         "Detailed dish descriptions, ingredients, and cooking techniques",
+         "Captivating images to showcase the culinary creations",
+         "Secure backend with user authentication and authorization",
+         "Efficient data storage and retrieval using MongoDB",
+         "Enhanced functionality through NPM packages",
+         "Search and filtering options for easy dish exploration",
+         "User ratings and reviews for feedback and recommendations",
+         "Social media sharing capabilities to promote dishes and chefs"
+      ]
    }
 ]

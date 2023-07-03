@@ -1,0 +1,67 @@
+[
+   {
+      "id": "1011",
+      "skillName": "React JS",
+      "img": "https://cloud.z.com/vn/wp-content/uploads/2023/05/ReactJS-online-training-nareshit.jpg"
+   },
+   {
+      "id": "1012",
+      "skillName": "React JS",
+      "img": "https://cloud.z.com/vn/wp-content/uploads/2023/05/ReactJS-online-training-nareshit.jpg"
+   },
+   {
+      "id": "1013",
+      "skillName": "Express JS",
+      "img": "https://miro.medium.com/v2/resize:fit:1400/1*XP-mZOrIqX7OsFInN2ngRQ.png"
+   },
+   {
+      "id": "1014",
+      "skillName": "Mongo Db",
+      "img": "https://cdn.thenewstack.io/media/2021/07/3025c103-mongodb.png"
+   },
+   {
+      "id": "1015",
+      "skillName": "Tailwind CSS",
+      "img": "https://miro.medium.com/v2/resize:fit:1400/1*oPL8C-i04sqAUoOS_da9aA.jpeg"
+   },
+   {
+      "id": "1016",
+      "skillName": "NPM packages",
+      "img": "https://www.w3schools.com/whatis/img_npm.jpg"
+   },
+   {
+      "id": "1017",
+      "skillName": "HTML5",
+      "img": "https://www.devopsschool.com/blog/wp-content/uploads/2022/03/html.jpg"
+   },
+   {
+      "id": "1018",
+      "skillName": "CSS3",
+      "img": "https://colorlib.com/wp/wp-content/uploads/sites/2/free-css3-frameworks.png"
+   },
+   {
+      "id": "1019",
+      "skillName": "Netlify",
+      "img": "https://static.agilitycms.com/copy-of-copy-of-blog-covers-2021-11-11t105359.633.jpg"
+   },
+   {
+      "id": "1020",
+      "skillName": "Vercel",
+      "img": "https://mms.businesswire.com/media/20211123005573/en/929867/23/vercel-logo-freelogovectors.net.jpg"
+   },
+   {
+      "id": "1021",
+      "skillName": "IBB",
+      "img": "https://pipedream.com/s.v0/app_1M0hkk/logo/orig"
+   },
+   {
+      "id": "1022",
+      "skillName": "Microsoft Office",
+      "img": "https://iqinit.uk/wp-content/uploads/2021/12/FEATUR1.png"
+   },
+   {
+      "id": "1023",
+      "skillName": "Adobe creative cloud",
+      "img": "https://1000logos.net/wp-content/uploads/2021/04/Adobe-logo-768x432.png"
+   }
+]

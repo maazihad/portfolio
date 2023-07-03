@@ -1,7 +1,6 @@
 import Wrapper from "../../components/Shared/Wrapper/Wrapper";
 import img1 from "../../assets/img/avatar-logo.jpg";
 import { Typewriter } from "react-simple-typewriter";
-import resume from "../../../public/resume_of_Md_Abul_Asad_Zihad.pdf";
 
 const Banner = () => {
 
@@ -46,7 +45,7 @@ const Banner = () => {
                         </div>
                      </div>
                      <div className="md:hidden mt-2">
-                        <a href={resume}
+                        <a href={`https://drive.google.com/file/d/1Rj8UMqptVWmfxCHKQaz2MZpBLlokdwdo/view?usp=sharing`}
                            className='px-4 py-2 rounded-md text-white blinking-text  hover:text-neutral-300 transition ease-in-out delay-150 capitalize font-semibold'
                         >
                            Download my resume

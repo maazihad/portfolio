@@ -1,20 +1,15 @@
 import Banner from "./Banner";
 import Message from "./Message";
+import Skills from "./Skills";
 import Strength from "./Strength";
-import { Element } from 'react-scroll';
 
 const Home = () => {
    return (
-      <div >
-
+      <div>
          <Banner />
-
-
          <Strength />
-
-
+         <Skills />
          <Message />
-
       </div>
    );
 };

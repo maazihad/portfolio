@@ -4,8 +4,9 @@ import profileBg from "../../assets/img/profile-bg.jpg";
 const About = () => {
    return (
       <div className='h-screen'>
-         <div className=" lg:w-full ">
-            <img className="object-cover object-center w-full h-96 rounded-md shadow" src={profileBg} alt="Profile" />
+         <div className=" lg:w-full  relative">
+            <img className="object-cover object-center w-full h-96 rounded-md shadow bg-gradient-to-b from-neutral-800" src={profileBg} alt="Profile" />
+            <div className="absolute top-0 rounded-xl w-full text-white  h-full  right-0 bg-gradient-to-b from-[#000000] to-[rgba(30, 30, 45, .5)] opacity-70"></div>
          </div>
          <Wrapper>
             <section className="bg-white dark:bg-gray-800">
