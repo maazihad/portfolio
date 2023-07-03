@@ -60,7 +60,7 @@ const Navbar = () => {
 
             <div className="absolute top-0 w-full right-0 md:hidden">
                <div className="absolute top-0 right-0 z-10">
-                  <div className="flex bg-purple-700 hover:bg-purple-900 rounded-full p-2 items-center justify-center mt-2 swap swap-rotate transition-all duration-500">
+                  <div className="flex bg-purple-700 hover:bg-purple-900 rounded-full p-2 items-center justify-center  swap swap-rotate transition-all duration-500 shadow-sm shadow-neutral-200">
                      <button
                         onClick={() => setIsOpen(!isOpen)}
                      >
